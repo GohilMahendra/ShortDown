@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698153286978",
+    "project_id": "shortdown-43491",
+    "storage_bucket": "shortdown-43491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698153286978:android:5d7e508e97276337a45cdb",
+        "android_client_info": {
+          "package_name": "com.shortdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698153286978-67054j5cu9c8m9lu93mtp4hk4c3jslo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shortdown",
+            "certificate_hash": "df4e3e68588c9c6911132cd6ae02e0865c2ece82"
+          }
+        },
+        {
+          "client_id": "698153286978-ukcaujslf846n33s976oblh8k79vdcfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLjDqbGEomcbWNYSCGUMXVTOPVC0BozE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698153286978-ukcaujslf846n33s976oblh8k79vdcfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

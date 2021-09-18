@@ -6,26 +6,25 @@
  * @flow strict-local
  */
 
-import React from 'react';
+import React, { useEffect, useReducer, useRef, useState } from 'react';
 
 import {
+  Dimensions,
+  Pressable,
   SafeAreaView,
 
   Text,
   View,
 } from 'react-native';
 
-
-import Video  from "react-native-video";
-
+import Video, { FilterType } from "react-native-video";
+import RootStackNavigator from './src/navigation/RootStackNavigator';
+import VideoScreen from './src/screens/VideoScreen';
 const App = () => {
-  
-  return (
-    <SafeAreaView style={{flex:1}}>
 
-      <Text>hfgh</Text>
-   
-    </SafeAreaView>
+  return (
+
+    <RootStackNavigator></RootStackNavigator>
   );
 };
 
